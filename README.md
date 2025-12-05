@@ -1,3 +1,4 @@
 # Ull-Act-7-Hospital-No.41-5I
 istema de Gestión Hospitalaria
-<img width="1180" height="861" alt="image" src="https://github.com/user-attachments/assets/3069edc2-9cab-43c8-8cdb-c9071507b44d" />
+<img width="991" height="699" alt="image" src="https://github.com/user-attachments/assets/24149968-4639-4c9a-a37b-e683e440aaad" />
+
